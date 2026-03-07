@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Snehil&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Android%20%26%20Full-Stack&descSize=20&descAlignY=55" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/Snehil208001/Snehil208001/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph"/>
+
+### 👋 Snehil — Software Developer | Android & Full-Stack
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+apps+that+ship+%F0%9F%9A%80;Android+%7C+Spring+Boot+%7C+Next.js;Real-time+%26+Scalable+Systems" alt="Typing SVG" />
@@ -113,7 +113,5 @@ Google Maps • Retrofit • Real-time Tracking • Multi-module
 [![Email](https://img.shields.io/badge/Email-snehil7542@gmail.com-6366f1?style=plastic&logo=gmail&logoColor=white)](mailto:snehil7542@gmail.com)
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=120&section=footer&fontSize=14&fontColor=ffffff" width="100%"/>
 
 </div>
