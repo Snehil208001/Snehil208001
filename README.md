@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:a855f7&height=200&section=header&text=Snehil&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Android%20%26%20Full-Stack&descSize=20&descAlignY=55" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+apps+that+ship+%F0%9F%9A%80;Android+%7C+Spring+Boot+%7C+Next.js;Real-time+%26+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+apps+that+ship+%F0%9F%9A%80;Android+%7C+Spring+Boot+%7C+Next.js;Real-time+%26+Scalable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehil208001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&border_radius=16" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehil208001&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&border_radius=16" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Snehil208001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=6366f1&border_radius=16" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Snehil208001&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=6366f1&currStreakLabel=8b5cf6&border_radius=16" height="165"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snehil208001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8&border_radius=16" height="165" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Snehil208001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8&border_radius=16" height="165" alt="Top Languages"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" height="3"/>
