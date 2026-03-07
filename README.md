@@ -102,7 +102,7 @@
 
 Spring Boot 3.5 • Next.js 14 • Stripe • AWS • PostgreSQL
 
-[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=flat-square)](https://github.com/Snehil208001)
+[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=flat-square)](https://github.com/Snehil208001/MoonLight-Stays)
 
 </td>
 <td width="50%">
@@ -112,7 +112,7 @@ Spring Boot 3.5 • Next.js 14 • Stripe • AWS • PostgreSQL
 
 Jetpack Compose • Firebase • MVVM • Swipe UI
 
-[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://github.com/Snehil208001)
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=flat-square)](https://github.com/Snehil208001/SwipeRightly)
 
 </td>
 </tr>
@@ -124,7 +124,7 @@ Jetpack Compose • Firebase • MVVM • Swipe UI
 
 Jetpack Compose • Firestore • MVVM • Real-time Sync
 
-[![View](https://img.shields.io/badge/View-Project-a855f7?style=flat-square)](https://github.com/Snehil208001)
+[![View](https://img.shields.io/badge/View-Project-a855f7?style=flat-square)](https://github.com/Snehil208001/QuickBuy)
 
 </td>
 <td width="50%">
@@ -134,7 +134,7 @@ Jetpack Compose • Firestore • MVVM • Real-time Sync
 
 Google Maps • Retrofit • Real-time Tracking • Multi-module
 
-[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=flat-square)](https://github.com/Snehil208001)
+[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=flat-square)](https://github.com/Snehil208001/INVYU-CAB_PROJECT-)
 
 </td>
 </tr>
