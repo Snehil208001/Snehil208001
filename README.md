@@ -30,10 +30,6 @@
 > **👋 Hi, I'm Snehil** — Software Developer specializing in **Android** (Kotlin, Jetpack Compose) and **Full-Stack** (Spring Boot, Next.js). I build production apps with real-time features, clean architecture, and scalable backends.  
 > **📍** Pune, India · **🎓** B.Tech, Bharati Vidyapeeth · **💼** Ex: Invyu Solution, Chamberly AB (Sweden)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Snehil208001&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=10" width="100%"/>
-</p>
-
 <br/>
 
 ### 🛠️ Tech Stack
