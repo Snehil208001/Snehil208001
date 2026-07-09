@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Snehil208001/Snehil208001/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph"/>
 
-### 👋 Snehil — Software Developer | Android & Full-Stack
+### 👋 Snehil — Android Developer | Kotlin · Jetpack Compose · Full-Stack
 
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Building+apps+that+ship+%F0%9F%9A%80;Android+%7C+Spring+Boot+%7C+Next.js;Real-time+%26+Scalable+Systems" alt="Typing SVG" />
@@ -27,7 +27,7 @@
 
 ### ✨ About Me
 
-> **👋 Hi, I'm Snehil** — Software Developer specializing in **Android** (Kotlin, Jetpack Compose) and **Full-Stack** (Spring Boot, Next.js). I build production apps with real-time features, clean architecture, and scalable backends.  
+> **👋 Hi, I'm Snehil** — an **Android Developer** who ships production apps with **Kotlin, Jetpack Compose, MVVM & Clean Architecture**. I pair that with **full-stack** skills (Spring Boot, Next.js) to deliver real-time features, secure APIs, and scalable backends end-to-end.  
 > **📍** Pune, India · **🎓** B.Tech, Bharati Vidyapeeth · **💼** Ex: Invyu Solution, Chamberly AB (Sweden)
 
 <br/>
@@ -55,17 +55,61 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Snehil208001/CVOptima-AI-Resume-Builder-/main/assets/homescreen.png" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
+
+#### 📄 CVOptima — AI Resume Builder
+*AI Resume Optimizer · Android + Backend*
+
+Kotlin • Jetpack Compose • Spring Boot • SSE • JWT
+
+[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/CVOptima-AI-Resume-Builder-)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Snehil208001/MoonLight-Stays/main/moonlight_stays_banner.png" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
 
 #### 🌙 Moonlight Stays
 *Airbnb-style Hotel Booking Platform*
 
-Spring Boot 3.5 • Next.js 14 • Stripe • AWS • PostgreSQL
+Kotlin (Android) • Spring Boot • Next.js • Stripe • AWS
 
-[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/MoonLight-Stays)
+[![View](https://img.shields.io/badge/View-Project-6366f1?style=plastic)](https://github.com/Snehil208001/MoonLight-Stays)
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://opengraph.githubassets.com/1/Snehil208001/Lovable_Clone" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
+
+#### 🤖 Lovable Clone
+*AI Full-Stack App Generator*
+
+Spring Boot 4 • Java 21 • Next.js • SSE • Stripe
+
+[![View](https://img.shields.io/badge/View-Project-a855f7?style=plastic)](https://github.com/Snehil208001/Lovable_Clone)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://opengraph.githubassets.com/1/Snehil208001/INVYU-CAB_PROJECT-" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
+
+#### 🚗 TRide
+*Cab Booking Platform*
+
+Jetpack Compose • Google Maps • Retrofit • Real-time Tracking
+
+[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/INVYU-CAB_PROJECT-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://opengraph.githubassets.com/1/Snehil208001/SwipeRightly" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
 
 #### 💕 SwipeRightly
 *Real-time Android Dating App*
@@ -75,9 +119,9 @@ Jetpack Compose • Firebase • MVVM • Swipe UI
 [![View](https://img.shields.io/badge/View-Project-6366f1?style=plastic)](https://github.com/Snehil208001/SwipeRightly)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+<img src="https://opengraph.githubassets.com/1/Snehil208001/QuickBuy" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
 
 #### 🛒 QuickBuy
 *Android E-commerce App*
@@ -85,16 +129,6 @@ Jetpack Compose • Firebase • MVVM • Swipe UI
 Jetpack Compose • Firestore • MVVM • Real-time Sync
 
 [![View](https://img.shields.io/badge/View-Project-a855f7?style=plastic)](https://github.com/Snehil208001/QuickBuy)
-
-</td>
-<td width="50%">
-
-#### 🚗 TRide
-*Cab Booking Platform*
-
-Google Maps • Retrofit • Real-time Tracking • Multi-module
-
-[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/INVYU-CAB_PROJECT-)
 
 </td>
 </tr>
