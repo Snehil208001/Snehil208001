@@ -36,7 +36,8 @@
 ### 🔭 Currently
 
 - 🎯 Preparing for **NIMCET 2027** while mastering **DSA in Java**
-- 🕯️ Building **[MoamLight](https://github.com/Snehil208001/MOAMLIGHT)** — my hand-poured scented candle brand, with a Next.js + Shopify headless storefront
+- 🏠 Building **[Sarvabhoomi](https://github.com/Snehil208001/Sarvabhoomi)** — Nepal's zero-brokerage P2P rental marketplace, live at [sarvabhoomi.vercel.app](https://sarvabhoomi.vercel.app) (Next.js + Supabase, phone-OTP auth, 77 districts)
+- 🕯️ Building **[MoamLight](https://github.com/Snehil208001/MOAMLIGHT)** — my hand-poured scented candle brand, with a live Shopify store and a Next.js headless storefront
 - 🌱 Deepening **Spring AI, system design, and scalable backend patterns**
 
 <br/>
@@ -131,9 +132,9 @@ Spring Boot 4 • Java 21 • Spring AI • OpenAI • PostgreSQL • SSE • St
 <img src="https://opengraph.githubassets.com/1/Snehil208001/MOAMLIGHT" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
 
 #### 🕯️ MoamLight — Scented Candles D2C Storefront
-Luxury Indian botanical scented candles — headless D2C storefront for my own candle brand.
+Hand-poured soy-wax scented candles in kulhads — live Shopify store with 7 products, plus a headless storefront for my own candle brand.
 
-Next.js 14 • Shopify Storefront GraphQL • Tailwind CSS • Three.js
+Next.js 15 • Shopify Storefront GraphQL • Tailwind CSS
 
 [![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/MOAMLIGHT)
 
@@ -154,14 +155,15 @@ Jetpack Compose • Google Maps • Retrofit • Real-time Tracking
 </td>
 <td width="50%" valign="top">
 
-<img src="https://opengraph.githubassets.com/1/Snehil208001/SwipeRightly" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
+<img src="https://opengraph.githubassets.com/1/Snehil208001/Sarvabhoomi" width="100%" height="160" style="object-fit:cover;border-radius:6px;"/>
 
-#### 💕 SwipeRightly — Dating App
-Real-time Android dating app with swipe UI and Firebase backend.
+#### 🏠 Sarvabhoomi — Nepal Zero-Brokerage Rental Marketplace *(Live)*
+P2P property rentals across Nepal's 77 districts, with no brokerage — renters and owners connect directly. Live at [sarvabhoomi.vercel.app](https://sarvabhoomi.vercel.app).
 
-Jetpack Compose • Firebase • MVVM • Swipe UI
+Next.js 14 • Supabase • Turborepo • Phone OTP Auth
 
-[![View](https://img.shields.io/badge/View-Project-a855f7?style=plastic)](https://github.com/Snehil208001/SwipeRightly)
+[![View](https://img.shields.io/badge/View-Project-8b5cf6?style=plastic)](https://github.com/Snehil208001/Sarvabhoomi)
+[![Live](https://img.shields.io/badge/Live-sarvabhoomi.vercel.app-6366f1?style=plastic)](https://sarvabhoomi.vercel.app)
 
 </td>
 </tr>
